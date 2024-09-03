@@ -1,0 +1,1 @@
+			Since SourceForge provides unstable download speeds, you can find all my builds here for faster downloads.
