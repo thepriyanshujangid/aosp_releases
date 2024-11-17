@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1731840661,
+      "filename": "lineage-22.0-20241117-UNOFFICIAL-redwood.zip",
+      "id": "ddc39aac5a168cc970d25ea10cfd7043",
+      "romtype": "unofficial",
+      "size": 1472958364,
+      "url": "https://your_hosting_service.com/path/to/lineage-22.0-20241117-UNOFFICIAL-redwood.zip",
+      "version": "16.0"
+    }
+  ]
+}
