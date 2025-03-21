@@ -1,11 +1,13 @@
-# 17-November-2024
+# 21-March-2025
 
 This ROM includes the following extra packages:-
 * MIUI Camera
 * MIUI Dolby
 * Xiaomi Parts
-* KernelSU
+* Rom is pre-rooted with KernelSU-Legacy
 
-Additional Notes
-* This build is based on the initial Android 15 release.
-* FTS panel is supported.
+Changelogs:
+* This is Android 15 QPR1 with March 2025 security patches
+* Switch to Scarlet kernel
+
+Other changes are same as evox & crDroid
