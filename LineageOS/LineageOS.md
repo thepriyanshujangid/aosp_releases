@@ -1,3 +1,8 @@
+# 07-July-2025
+
+* Fixed VOIP audio issue.
+( If a notification is received during your conversation, you will stop hearing the other person. )
+
 # 10-Jun-2025
 
 This ROM includes the following extra packages:-
