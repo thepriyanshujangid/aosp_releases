@@ -1,4 +1,8 @@
 ***
+# 16-August-2025
+
+* Fixed whatsapp issue
+* Fixed NFC crash ( Stopped NFC from triggering for indian devices and load otherwise )
 
 # 14-August-2025
 
