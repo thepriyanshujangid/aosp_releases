@@ -1,4 +1,9 @@
 ***
+
+# 19-August-2025
+
+* Fixed facial verification issue in some banking apps ( eg. banco guayaqui)
+
 # 16-August-2025
 
 * Fixed whatsapp issue

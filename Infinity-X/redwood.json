@@ -1,11 +1,11 @@
 {
         "response": [
                 {
-                        "filename": "Project_Infinity-X-3.1-redwood-20250817-0927-GAPPS-UNOFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/poco-x5-pro-roms/files/Infinity-X/A16/Project_Infinity-X-3.1-redwood-20250817-0927-GAPPS-UNOFFICIAL.zip/download",
-                        "timestamp": 1755422816,
-                        "md5": "35991989490d4ca7a8cde00f561537c3",
-                        "size": 2208302079,
+                        "filename": "Project_Infinity-X-3.1-redwood-20250819-1614-GAPPS-UNOFFICIAL.zip",
+                        "download": "https://redwood-ota.clickworld.workers.dev/0:/Infinity-X/Project_Infinity-X-3.1-redwood-20250819-1614-GAPPS-UNOFFICIAL.zip",
+                        "timestamp": 1755619396,
+                        "md5": "d108cbc9608bb65acd3486465e7b4d27",
+                        "size": 2217193424,
                         "version": "3.1"
                 }
         ]
