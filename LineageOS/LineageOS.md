@@ -1,3 +1,12 @@
+# 20-August-2025
+
+Changelogs:
+* Merged August 2025 security patches.
+* Switch to QTI power hal
+* Prefer deep over s2idle for yupik
+* Fixed facial verification issue in some banking apps ( eg. banco guayaqui).
+
+
 # 07-July-2025
 
 * Fixed VOIP audio issue.
