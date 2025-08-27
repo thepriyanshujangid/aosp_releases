@@ -1,3 +1,7 @@
+# 27-August-2025
+* Upstream Lineage kernel to 5.4.295
+* Switched to Lineage power hal ( let's give it a try )
+
 # 20-August-2025
 
 Changelogs:
