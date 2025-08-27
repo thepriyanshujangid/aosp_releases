@@ -1,4 +1,7 @@
 ***
+# 26-August-2025
+* Upstreamed Lineage kernel to 5.4.295
+* Fixed some services which was  crashing in logcat
 
 # 19-August-2025
 
