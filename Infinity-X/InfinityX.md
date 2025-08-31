@@ -1,4 +1,11 @@
 ***
+# 31-August-2025
+* Added global firmware OS2.0.9.0.UMSMIXM
+* Updated blobs to OS2.0.9.0.UMSMIXM
+* Updated MIUICamera from OS2.0.17.0.UMSCNXM
+* Updated MotoDolbyDax3.apk [White icon]
+* Infinity: Extras: Update pif spoof to mustang
+
 # 26-August-2025
 * Upstreamed Lineage kernel to 5.4.295
 * Fixed some services which was  crashing in logcat
