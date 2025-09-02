@@ -1,4 +1,8 @@
 ***
+# 2-September-2025
+* No changes device side
+* For rom related changes: https://t.me/ProjectInfinityX/1494
+
 # 31-August-2025
 * Added global firmware OS2.0.9.0.UMSMIXM
 * Updated blobs to OS2.0.9.0.UMSMIXM
