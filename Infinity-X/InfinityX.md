@@ -1,4 +1,8 @@
 ***
+# 16-September-2025
+* No changes device side
+* Source Changes: https://t.me/InfinityXGroup/164557/174134
+
 # 5-September-2025
 * Switched to Scarlet-v2.2-beta8 ( Uninstall ksu-next app and install ksu-legacy app instead. [click here](https://t.me/redwoodroms/100447/156632) to download. )
 * [Click me](https://t.me/InfinityXGroup/164557/174134) to check out the source related changes.
