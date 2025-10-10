@@ -1,12 +1,12 @@
 {
         "response": [
                 {
-                        "filename": "Project_Infinity-X-3.2-redwood-20250924-2353-GAPPS-UNOFFICIAL.zip",
-                        "download": "https://redwood-ota.clickworld.workers.dev/0:/Infinity-X/Project_Infinity-X-3.2-redwood-20250924-2353-GAPPS-UNOFFICIAL.zip",
-                        "timestamp": 1758757997,
-                        "md5": "a864f20bb9d1f6cc7dd57df4ede4b050",
-                        "size": 2166120216,
-                        "version": "3.2"
+                        "filename": "Project_Infinity-X-3.3-redwood-20251010-0413-GAPPS-UNOFFICIAL.zip",
+                        "download": "https://redwood-ota.clickworld.workers.dev/0:/Infinity-X/Project_Infinity-X-3.3-redwood-20251010-0413-GAPPS-UNOFFICIAL.zip",
+                        "timestamp": 1760069401,
+                        "md5": "43736f9d7fb2b4960fa9257143a6c789",
+                        "size": 2031303451,
+                        "version": "3.3"
                 }
         ]
 }

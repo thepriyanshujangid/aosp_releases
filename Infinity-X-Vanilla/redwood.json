@@ -1,12 +1,12 @@
 {
         "response": [
                 {
-                        "filename": "Project_Infinity-X-3.2-redwood-20250925-0028-VANILLA-UNOFFICIAL.zip",
-                        "download": "https://redwood-ota.clickworld.workers.dev/0:/Infinity-X/vanilla/Project_Infinity-X-3.2-redwood-20250925-0028-VANILLA-UNOFFICIAL.zip",
-                        "timestamp": 1758760012,
-                        "md5": "262f5f1db22e70ecbc448d9d95d8e3ff",
-                        "size": 1644588540,
-                        "version": "3.2"
+                        "filename": "Project_Infinity-X-3.3-redwood-20251010-0438-VANILLA-UNOFFICIAL.zip",
+                        "download": "https://redwood-ota.clickworld.workers.dev/0:/Infinity-X/vanilla/Project_Infinity-X-3.3-redwood-20251010-0438-VANILLA-UNOFFICIAL.zip",
+                        "timestamp": 1760071002,
+                        "md5": "217e92483d783f14107d3632d30837fd",
+                        "size": 1676240619,
+                        "version": "3.3"
                 }
         ]
 }
