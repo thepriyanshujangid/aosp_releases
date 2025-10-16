@@ -1,4 +1,8 @@
 ***
+# 16-October-2025
+* Memory Optimisations
+* Source Changes: https://t.me/ProjectInfinityX/1568
+
 # 10-October-2025
 * October Security Patch Merged
 * Switched to KSU-Next for Better Root Hiding
