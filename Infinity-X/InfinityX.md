@@ -1,4 +1,8 @@
 ***
+# 21-October-2025
+* Updated blobs to OS2.0.11.0.UMSMIXM
+* Source Changes: https://t.me/ProjectInfinityX/1583
+
 # 16-October-2025
 * Memory Optimisations
 * Source Changes: https://t.me/ProjectInfinityX/1568
