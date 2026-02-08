@@ -1,3 +1,19 @@
+# 08-February-2026
+
+*  This is Android 16 QPR2 with February 2026 security patches.
+
+*  Hide selected apps from app lists and system views.
+*  Hide screen capture and screen recording detection from apps.
+*  Ignore secure window restrictions to allow screenshots or screen sharing in restricted apps.
+*  Hide Developer Options and ADB status from apps for improved privacy.
+*  Added keybox support ( settings -> Apps )
+*  Added three-finger swipe gesture for taking screenshots.
+*  Adjustable flashlight brightness levels (not just on/off).
+*  Reduced camera crashes and improved compatibility.
+*  Improved home screen grid options closer to Pixel-style layouts.
+*  Fixed spacing and padding issues for a cleaner look.
+*  Better layout handling across different screen sizes.
+
 # 27-August-2025
 * Upstream Lineage kernel to 5.4.295
 * Switched to Lineage power hal ( let's give it a try )
