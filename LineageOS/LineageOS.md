@@ -1,3 +1,10 @@
+# 17-February-2026
+
+* Fixed network indicator 
+* Keybox and PIF  support  is now part of   settings -> security and privacy -> more security and privary
+* Updated kernel to Scarlet-v4.0-beta4
+* Switch back to lineage power-libperfmgr
+
 # 08-February-2026
 
 *  This is Android 16 QPR2 with February 2026 security patches.
