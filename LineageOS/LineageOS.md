@@ -1,3 +1,17 @@
+# 22-February-2026
+
+* Fixed 5Ghz hotspot
+* Enable blur by default
+* Switch to AOSP WFD
+* Fixed keybox implementation
+* Fixed random reboot issue
+* Add FaceUnlock support
+* Add auto call recording support in Dialer
+* Set properties to make SafetyNet pass
+* Spoof build type property to user
+
+`NOTE: The custom settings we added can be found under Settings → Security & Privacy → More Security & Privacy.`
+
 # 17-February-2026
 
 * Fixed network indicator 
