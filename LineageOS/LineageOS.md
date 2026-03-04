@@ -1,3 +1,9 @@
+# 04-March-2026
+
+* Few systemwide fixes
+
+`NOTE: The custom settings we added can be found under Settings → Security & Privacy → More Security & Privacy.`
+
 # 22-February-2026
 
 * Fixed 5Ghz hotspot
