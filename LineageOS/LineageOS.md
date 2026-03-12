@@ -1,3 +1,9 @@
+# 12-March-2026
+
+* March security patch update
+
+`NOTE: The custom settings we added can be found under Settings → Security & Privacy → More Security & Privacy.`
+
 # 04-March-2026
 
 * Few systemwide fixes
