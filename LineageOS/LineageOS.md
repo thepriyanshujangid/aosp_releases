@@ -1,3 +1,11 @@
+# 02-August-2026
+
+* July security patch update
+
+* Removed three finger screenshot (Temporary)
+
+`NOTE: The custom settings we added can be found under Settings → Security & Privacy → More Security & Privacy.`
+
 # 23-March-2026
 
 * March security patch update
