@@ -1,13 +1,16 @@
-{
-  "response": [
-    {
-      "datetime": 1785670134,
-      "filename": "lineage-23.2-20260802-UNOFFICIAL-redwood.zip",
-      "id": "46ec844679c36a3448612c928c99d088",
-      "romtype": "UNOFFICIAL",
-      "size": 1597978285,
-      "url": "https://github.com/thepriyanshujangid/aosp_releases/releases/download/LineageOS/lineage-23.2-20260802-UNOFFICIAL-redwood.zip",
-      "version": "23.2"
-    }
-  ]
-}
+[
+  {
+    "datetime": 1787365855,
+    "version": "23.2",
+    "type": "unofficial",
+    "files": [
+      {
+        "filename": "lineage-23.2-20260822-UNOFFICIAL-redwood.zip",
+        "id": "90e8fa6dbdfff0e4d2e9652d98932374fdbdba4b8473d8d27be27a9cbdace22d",
+        "sha256": "90e8fa6dbdfff0e4d2e9652d98932374fdbdba4b8473d8d27be27a9cbdace22d",
+        "size": 1627663849,
+        "url": "https://github.com/thepriyanshujangid/aosp_releases/releases/download/LineageOS/lineage-23.2-20260822-UNOFFICIAL-redwood.zip"
+      }
+    ]
+  }
+]

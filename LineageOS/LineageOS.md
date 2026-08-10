@@ -1,3 +1,11 @@
+# 22-August-2026
+
+* August security patch update
+
+* Bring back FaceUnlock support
+
+`NOTE: The custom settings we added can be found under Settings → Security & Privacy → More Security & Privacy.`
+
 # 02-August-2026
 
 * July security patch update
