@@ -1,3 +1,11 @@
+# 26-August-2026
+
+* Add Dolby Vision support
+
+* Switch to OSS DolbyAtmos interface
+
+`NOTE: The custom settings we added can be found under Settings → Security & Privacy → More Security & Privacy.`
+
 # 22-August-2026
 
 * August security patch update
