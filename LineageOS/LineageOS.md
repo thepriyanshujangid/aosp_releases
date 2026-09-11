@@ -1,3 +1,9 @@
+# 10-September-2026
+
+* Sept. security patch update
+
+`NOTE: The custom settings we added can be found under Settings → Security & Privacy → More Security & Privacy.`
+
 # 26-August-2026
 
 * Add Dolby Vision support
