@@ -1,0 +1,14 @@
+<string-array name="config_certifiedBuildProperties" translatable="false">
+    <item>BRAND:POCO</item>
+    <item>MANUFACTURER:Xiaomi</item>
+    <item>DEVICE:redwood</item>
+    <item>PRODUCT:redwood_global</item>
+    <item>MODEL:22101320G</item>
+    <item>FINGERPRINT:POCO/redwood_global/redwood:14/UKQ1.240624.001/OS2.0.17.0.UMSMIXM:user/release-keys</item>
+    <item>SECURITY_PATCH:2024-06-01</item>
+    <item>DEVICE_INITIAL_SDK_INT:31</item>
+    <item>ID:UKQ1.240624.001</item>
+    <item>TYPE:user</item>
+    <item>TAGS:release-keys</item>
+    <item>INCREMENTAL:OS2.0.17.0.UMSMIXM</item>
+</string-array>
