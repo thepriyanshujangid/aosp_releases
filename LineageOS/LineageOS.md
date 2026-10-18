@@ -1,6 +1,8 @@
+# 18-October-2026
+
+* October security patch update
+* Removed inbuilt PIF / Keybox support ( Not working as of now, Use Modules instead )
+  
 # 14-October-2026
 
 * Initial LineageOS-24 update
-
-`NOTE: The custom settings is located under Settings → Security & Privacy → More Security & Privacy.`
-`Impoort keybox / pif from Settings → Apps`
