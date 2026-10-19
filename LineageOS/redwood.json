@@ -1,14 +1,14 @@
 [
   {
-    "datetime": 1792305247,
+    "datetime": 1792518503,
     "files": [
       {
-        "filename": "lineage-24.0-20261018-UNOFFICIAL-redwood.zip",
+        "filename": "lineage-24.0-20261020-UNOFFICIAL-redwood.zip",
         "os_patch_level": "2026-10-01",
         "os_sdk_level": 37,
-        "sha256": "768c9c672de210ac6aa0719783b3505c459cb6dec7e4979fea608cebba44ad1f",
-        "size": 1645965843,
-        "url": "https://github.com/thepriyanshujangid/aosp_releases/releases/download/LineageOS/lineage-24.0-20261018-UNOFFICIAL-redwood.zip"
+        "sha256": "4852d284c1572b22ef4223c067290a270866caad2934bd551152a00d81acaadc",
+        "size": 1668565057,
+        "url": "https://github.com/thepriyanshujangid/aosp_releases/releases/download/LineageOS/lineage-24.0-20261020-UNOFFICIAL-redwood.zip"
       }
     ],
     "type": "UNOFFICIAL",
