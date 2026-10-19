@@ -1,3 +1,6 @@
+# 19-October-2026
+* Add GooglePhotos spoof
+
 # 18-October-2026
 
 * October security patch update
