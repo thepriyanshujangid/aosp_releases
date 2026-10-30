@@ -1,3 +1,9 @@
+# 30-October-2026
+* Switched to Lunaris Dolby interface
+* Added DolbyVision support 
+* Fixed display idle timer
+* Updated to Scarlet-v7.0
+
 # 20-October-2026
 * Fixed dead video filter and beauty lens
 * Fixed front camera video freeze issue at 1080p/720p@30
