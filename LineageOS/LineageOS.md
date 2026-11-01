@@ -1,3 +1,9 @@
+# 10-November-2026
+* November security patch update
+* Added inbuilt KEYBOX / PIF support ( Remove the modules you have flashed to pass integrity before upating. Use inbuilt feature instead )
+
+    ```Go to Settings -> System -> Spoofing hub and fetch pixel 6a fingerprint and latest keybox from there and reboot your device.```
+
 # 30-October-2026
 * Switched to Lunaris Dolby interface
 * Added DolbyVision support 
